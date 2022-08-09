@@ -5,6 +5,10 @@
 - <a href="https://github.com/Guilherme-Maciel/costs">COSTS</a>
 - <a href="https://github.com/Guilherme-Maciel/NLW-4-ReactJS">NLW#4 - Trilha: ReactJS</a>
 
+## VUE JS
+
+- <a href="https://github.com/Guilherme-Maciel/alura-tracker">Alura Tracker</a>
+
 ## NODEJS
 
 - <a href="https://github.com/Guilherme-Maciel/NLW-3-HAPPY">NLW#3 - Happy</a>
