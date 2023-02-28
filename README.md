@@ -22,6 +22,7 @@
 
 ## C#
 
+- <a href="https://github.com/Guilherme-Maciel/training-dotnet6-api">TRAINING - .NET 6 MINIMAL API</a>
 - <a href="https://github.com/Guilherme-Maciel/CSHARP-Beecrowd_Problems">BEECROWD - PROBLEMS</a>
 - <a href="https://github.com/Guilherme-Maciel/webapi-aspnet">API RESTful MySQL - ASP.NET</a>
 - <a href="https://github.com/Guilherme-Maciel/API_ASP.NET-MongoDB">API RESTful MongoDB - ASP.NET</a>
